@@ -11,7 +11,7 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 ### STEP 1: 
-
+ 
 Write your own steps
 
 ### STEP 2: 
